@@ -19,7 +19,7 @@
 
 # 👨‍💻 Sobre mí⚡:
 <br>¡Hola! Soy <b>Agustín Pachilla</b>, un desarrollador web apasionado por crear soluciones funcionales y atractivas. <br>
-🌐 He trabajado en la creación de un <b>Sistema de Gestión Escolar</b> desarrollado en PHP para el Instituto Tecnologico de Santiago del Estero, donde me enfoqué principalmente en el frontend utilizando PHP,HTML,CSS,JavaScript y Bootstrap me encargue de las validaciones de todos los campos de entrada del sistema usando JS.Integré librerias como Toasty y la API de reCAPTCHA de Google en el formulario de preinscripción de ese mismo sistema.
+🌐 He trabajado en la creación de un <b>Sistema de Gestión Escolar</b> desarrollado en PHP para el Instituto Tecnologico de Santiago del Estero, donde me enfoqué principalmente en el frontend utilizando PHP,HTML,CSS,JavaScript y Bootstrap,tambien me encargue de las validaciones de todos los campos de entrada del sistema usando JS.Integré librerias como Toasty y la API de reCAPTCHA de Google en el formulario de preinscripción de ese mismo sistema.
 <br>Tengo experiencia en patrones de diseño <b>MVC</b> y metodologias de trabajo <b>SCRUM</b> siendo <b>PRODUCT OWNER💼</b> en el proyecto ,planificando todas sus etapas utilizando diagramas de <b>GANTT</b>. 🔐<br><br> 
 📚 Actualmente, soy estudiante de Ciencia de Datos e Inteligencia Artificial en el ITSE, utilizando Python con Pandas ampliando mis conocimientos constantemente en Machine Learning y análisis de datos.<br><br>
 
